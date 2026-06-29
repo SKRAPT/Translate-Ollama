@@ -2,7 +2,7 @@
   "id": "ollama-manga-translator",
   "name": "Ollama Manga Translator",
   "description": "Traduz mangá + chat IA para aprimorar, verificar e explorar com Ollama local",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/SKRAPT/Translate-Ollama/refs/heads/main/ollama-manga-translator.json",
   "version": "2.0.0",
   "author": "Skrapt",
   "type": "plugin",
